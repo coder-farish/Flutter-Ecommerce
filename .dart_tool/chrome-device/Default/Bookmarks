@@ -1,0 +1,565 @@
+{
+   "checksum": "bd4a5e0a207fcb430ea4fa08fc453d67",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13097110446521000",
+            "date_last_used": "0",
+            "guid": "0b5d5e72-8e5b-4193-9232-e3f7fa72b5a2",
+            "id": "62",
+            "name": "Standard Chartered Online Banking  Pakistan",
+            "type": "url",
+            "url": "https://online.standardchartered.com/nfs/ibank/pk/foa/login.htm"
+         }, {
+            "date_added": "13204743794820466",
+            "date_last_used": "0",
+            "guid": "ed1bd890-07f9-4153-88eb-de64a2707a6a",
+            "id": "63",
+            "name": "MBL - Login",
+            "type": "url",
+            "url": "https://ebanking.meezanbank.com/AmbitRetailFrontEnd/login?se=y_sHexp"
+         }, {
+            "date_added": "13205093879630126",
+            "date_last_used": "0",
+            "guid": "62bfd568-6289-4b6b-94a0-d52ae2506c28",
+            "id": "64",
+            "name": "Microsoft Office Home",
+            "type": "url",
+            "url": "https://www.office.com/?auth=1"
+         }, {
+            "date_added": "13205102376311674",
+            "date_last_used": "0",
+            "guid": "1eb10d4a-7474-42b7-97c8-c8b785fa9e3c",
+            "id": "65",
+            "name": "Install and activate Office 2019 for FREE legally using Volume license",
+            "type": "url",
+            "url": "https://msguides.com/microsoft-software-products/office-2019.html"
+         }, {
+            "date_added": "13205261362427523",
+            "date_last_used": "0",
+            "guid": "dbec5d2a-1587-475e-96f8-c20d8b3aad95",
+            "id": "66",
+            "name": "Uber Partners | Payments",
+            "type": "url",
+            "url": "https://partners.uber.com/p3/payments/statements#_"
+         }, {
+            "date_added": "13205788111068487",
+            "date_last_used": "0",
+            "guid": "12c41f78-2de9-4243-9d8e-105dc8329212",
+            "id": "67",
+            "name": "Assets Inquiry",
+            "type": "url",
+            "url": "https://iris.fbr.gov.pk/public/infocenter/assetsInquiry.xhtml"
+         }, {
+            "date_added": "13218827421560492",
+            "date_last_used": "0",
+            "guid": "6545e7bd-cd4c-4c4f-a8ab-53729608c1cc",
+            "id": "68",
+            "name": "PTA | CMS",
+            "type": "url",
+            "url": "https://complaint.pta.gov.pk/public/complaint/onlinecomplaints/onlinecomplaintstatus"
+         }, {
+            "date_added": "13228941466009989",
+            "date_last_used": "0",
+            "guid": "3cb849bc-dedd-448f-928d-cde429cd37da",
+            "id": "69",
+            "name": "TCS-Tracking",
+            "type": "url",
+            "url": "https://www.tcsexpress.com/Tracking/"
+         }, {
+            "date_added": "13238098381463938",
+            "date_last_used": "0",
+            "guid": "69931308-15a4-4d3f-b9e9-df10d0367fae",
+            "id": "70",
+            "name": "25 Self Development Skills to Build Strong Personality",
+            "type": "url",
+            "url": "https://www.educba.com/25-self-development-skills-to-learn/"
+         }, {
+            "date_added": "13257576584424481",
+            "date_last_used": "0",
+            "guid": "7fa1b661-91e8-4122-9827-0b0616bb42dd",
+            "id": "71",
+            "name": "HRsystems | Login",
+            "type": "url",
+            "url": "https://hrsystems.ptml.pk/"
+         }, {
+            "date_added": "13258712713582095",
+            "date_last_used": "0",
+            "guid": "aa26727c-df70-4ddc-ab86-b1d8215cf6f9",
+            "id": "72",
+            "name": ":: Login HITIT PIA",
+            "type": "url",
+            "url": "https://agency-pia.crane.aero/"
+         }, {
+            "date_added": "13324126870301454",
+            "date_last_used": "0",
+            "guid": "756db583-2c05-43b2-94ee-26586b555b4d",
+            "id": "73",
+            "name": "PIA Feedback Management System",
+            "type": "url",
+            "url": "https://203.135.2.79/Welcome.aspx"
+         }, {
+            "date_added": "13283085974736792",
+            "date_last_used": "0",
+            "guid": "ef55a728-5799-46a0-a0ab-5acbe8352de3",
+            "id": "74",
+            "name": "Booking.com",
+            "type": "url",
+            "url": "http://www.booking.com/index.html?aid=398438&label=webslice"
+         } ],
+         "date_added": "13370035705730841",
+         "date_last_used": "0",
+         "date_modified": "13324126870301454",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13283085974736792",
+               "date_last_used": "0",
+               "guid": "5d7da7f2-7303-4fb5-80ef-981180346ad6",
+               "id": "61",
+               "name": "Booking.com",
+               "type": "url",
+               "url": "http://www.booking.com/index.html?aid=398438&label=iefav"
+            } ],
+            "date_added": "13370035710484542",
+            "date_last_used": "0",
+            "date_modified": "13370035720973101",
+            "guid": "5b704614-878c-4f8d-a710-61887ba7bf86",
+            "id": "60",
+            "name": "HP",
+            "type": "folder"
+         } ],
+         "date_added": "13370035705730846",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [ {
+            "date_added": "13253312826612592",
+            "date_last_used": "0",
+            "guid": "fb060e9d-45a1-417b-a22f-cf32669da7cb",
+            "id": "9",
+            "name": "MBL - Login",
+            "type": "url",
+            "url": "https://ebanking.meezanbank.com/AmbitRetailFrontEnd/login"
+         }, {
+            "date_added": "13297589941924853",
+            "date_last_used": "0",
+            "guid": "68ee232f-7141-4473-99b2-cc0a459ad38a",
+            "id": "10",
+            "name": "23 Things Effective Communicators Do At Work And Home - Lifehack",
+            "type": "url",
+            "url": "https://www.lifehack.org/articles/productivity/10-things-people-with-effective-communication-skills-have-common.html"
+         }, {
+            "date_added": "13305801847993477",
+            "date_last_used": "0",
+            "guid": "05caadf3-7c7c-4bd0-9ca6-7401b401e632",
+            "id": "11",
+            "name": "Login-Tax Payer",
+            "type": "url",
+            "url": "https://iris.fbr.gov.pk/public/txplogin.xhtml"
+         }, {
+            "date_added": "13322820449329007",
+            "date_last_used": "0",
+            "guid": "2262db31-7b20-4e08-a832-e939e7ed80fc",
+            "id": "12",
+            "name": "Interpersonal communication - HBR",
+            "type": "url",
+            "url": "https://hbr.org/topic/subject/interpersonal-communication?ab=articlepage-topic"
+         }, {
+            "date_added": "13324733896381003",
+            "date_last_used": "0",
+            "guid": "110259da-7857-43fd-bfab-9b76bbfcfd27",
+            "id": "13",
+            "name": "PTCL Help Desk",
+            "type": "url",
+            "url": "http://10.192.5.20/"
+         }, {
+            "date_added": "13325682392252420",
+            "date_last_used": "0",
+            "guid": "3502945a-127f-42b3-803b-20803eaa9ab5",
+            "id": "14",
+            "name": "Millions of PNG Images, Backgrounds and Vectors for Free Download - pngaaa.com",
+            "type": "url",
+            "url": "https://www.pngaaa.com/"
+         }, {
+            "date_added": "13337968104495410",
+            "date_last_used": "0",
+            "guid": "bb416892-29a8-471b-bda8-75721df05f04",
+            "id": "15",
+            "name": "SimpliEd",
+            "type": "url",
+            "url": "https://app.simpliedtech.com/"
+         }, {
+            "date_added": "13337969285308218",
+            "date_last_used": "0",
+            "guid": "c359ff48-0c5c-48d1-a742-1cd14b47a7bb",
+            "id": "16",
+            "name": "Standard Chartered Online Banking | Pakistan",
+            "type": "url",
+            "url": "https://retail.sc.com/pk/ibank/pk/foa/login.htm"
+         }, {
+            "date_added": "13340882491541687",
+            "date_last_used": "0",
+            "guid": "cfc07f3c-37c9-45fa-a432-bec05c364718",
+            "id": "17",
+            "name": "Creativity and Inspiration: Thinking Outside the Box | Psychology Today",
+            "type": "url",
+            "url": "https://www.psychologytoday.com/us/blog/explorations-of-the-mind/202309/creativity-and-inspiration-thinking-outside-the-box"
+         }, {
+            "date_added": "13352415174755589",
+            "date_last_used": "0",
+            "guid": "9f2083db-f27f-450f-93d6-e6888ba51f3b",
+            "id": "18",
+            "name": "Python Crash Course",
+            "type": "url",
+            "url": "https://gist.github.com/jmangrad/7206746691a9c0a1ace5815fe15db705"
+         }, {
+            "date_added": "13352415183174898",
+            "date_last_used": "0",
+            "guid": "f2d598a9-d4a2-4643-8a5d-6a684ff25e80",
+            "id": "19",
+            "name": "Python Crash Course by ehmatthes",
+            "type": "url",
+            "url": "https://ehmatthes.github.io/pcc/solutions/chapter_3.html"
+         }, {
+            "date_added": "13352910278409518",
+            "date_last_used": "0",
+            "guid": "9ad3428c-3241-4b9f-a9cc-5ae7fe95be57",
+            "id": "20",
+            "name": "TS_Assign_Muhammad-Farhan/Assignment at main · coder-farish/TS_Assign_Muhammad-Farhan",
+            "type": "url",
+            "url": "https://github.com/coder-farish/TS_Assign_Muhammad-Farhan/tree/main/Assignment"
+         }, {
+            "date_added": "13354303115176012",
+            "date_last_used": "0",
+            "guid": "588eb1cd-485b-41e7-b604-4b628a6f47a4",
+            "id": "21",
+            "name": "38 Excel Tips for Becoming a Spreadsheet Pro | PCMag",
+            "type": "url",
+            "url": "https://www.pcmag.com/explainers/excel-tips-for-becoming-a-spreadsheet-pro"
+         }, {
+            "date_added": "13355609732704601",
+            "date_last_used": "0",
+            "guid": "880613a0-3f01-409d-8196-3fd930e24bee",
+            "id": "22",
+            "name": "Learn TypeScript for Practical Projects",
+            "type": "url",
+            "url": "https://www.freecodecamp.org/news/learn-typescript-for-practical-projects/"
+         }, {
+            "date_added": "13361396037282093",
+            "date_last_used": "0",
+            "guid": "7bcea5f8-b57e-4cf7-bc8b-bfab7e4cba4d",
+            "id": "23",
+            "name": "ChatGPT-4 In eLearning: Enhancing Speed And Quality",
+            "type": "url",
+            "url": "https://elearningindustry.com/leveraging-chatgpt-4-for-enhancing-speed-and-quality-in-elearning-programs"
+         }, {
+            "date_added": "13362072459263967",
+            "date_last_used": "0",
+            "guid": "d32b6590-45c8-4007-b345-8ec9f66c6c5e",
+            "id": "24",
+            "name": "Dart & Flutter Complete Course 2023 | Beginner To Advance - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/playlist?list=PLse5CgP1Mk-taQsLxoOxFt5LlW7E9zCoF"
+         }, {
+            "date_added": "13365872378019917",
+            "date_last_used": "0",
+            "guid": "179f1ec2-6f0b-4193-b963-fc8a4963c954",
+            "id": "25",
+            "name": "Empathy & Emotional Intelligence Are The Future Of Leadership",
+            "type": "url",
+            "url": "https://www.forbes.com/sites/qhamirani/2024/07/18/empathy--emotional-intelligence-are-the-future-of-leadership/"
+         }, {
+            "date_added": "13366067448979300",
+            "date_last_used": "0",
+            "guid": "f0033f12-9559-4c79-b47e-b2c212368e4f",
+            "id": "26",
+            "name": "5 Excel Quick Tips You Didn’t Know You Needed",
+            "type": "url",
+            "url": "https://www.howtogeek.com/6-excel-quick-tips-you-didnt-know-you-needed/"
+         }, {
+            "date_added": "13366967508537259",
+            "date_last_used": "0",
+            "guid": "ae8d364c-0db9-4436-af07-d37bd36951ed",
+            "id": "27",
+            "name": "7 Steps to Master the Art of Data Storytelling - KDnuggets",
+            "type": "url",
+            "url": "https://www.kdnuggets.com/7-steps-to-master-the-art-of-data-storytelling"
+         }, {
+            "date_added": "13233396949025271",
+            "date_last_used": "0",
+            "guid": "ac5e020d-5be6-4d0a-97a2-aa296a02f96e",
+            "id": "28",
+            "name": "Mail - Muhammad Farhan/Customer Services Operations/Karachi - Outlook",
+            "type": "url",
+            "url": "https://outlook.office365.com/mail/inbox"
+         }, {
+            "date_added": "13272966514493230",
+            "date_last_used": "0",
+            "guid": "7b9f6f92-b8ce-4b7a-a1cd-c4d8ca6eb101",
+            "id": "29",
+            "name": "ptcl | Home",
+            "type": "url",
+            "url": "https://ptcl.talentlms.com/dashboard"
+         }, {
+            "date_added": "13294737036187574",
+            "date_last_used": "0",
+            "guid": "e11b4028-a625-4447-b319-b3d9a5f8468a",
+            "id": "30",
+            "name": "Outlook",
+            "type": "url",
+            "url": "https://webmail.ptcl.net.pk/owa/auth/logon.aspx?url=https%3a%2f%2fwebmail.ptcl.net.pk%2fowa&reason=0"
+         }, {
+            "date_added": "13294737442041760",
+            "date_last_used": "0",
+            "guid": "0dc1dadf-4e90-4be6-aa7b-a053fbce7ec6",
+            "id": "31",
+            "name": "Mail - Muhammad Farhan/Sr. CS Trainer/KHI/Ufone - Outlook",
+            "type": "url",
+            "url": "https://outlook.office.com/mail/inbox"
+         }, {
+            "date_added": "13297672511834426",
+            "date_last_used": "0",
+            "guid": "c064d8f9-1dcf-4e9d-b3ea-76333f12e8af",
+            "id": "32",
+            "name": "What is User Acceptance Testing (UAT): A Complete Guide",
+            "type": "url",
+            "url": "https://www.softwaretestinghelp.com/what-is-user-acceptance-testing-uat/"
+         }, {
+            "date_added": "13298111869520944",
+            "date_last_used": "0",
+            "guid": "d719494d-e1fa-42fa-93d4-a773a356a08c",
+            "id": "33",
+            "name": "Log in to smp",
+            "type": "url",
+            "url": "https://smpportal.ptcl.net.pk/auth/realms/smp/protocol/openid-connect/auth?client_id=smp-portal&redirect_uri=https%3A%2F%2Fsmpportal.ptcl.net.pk%2Fportal%2Fcsp%2Fdashboard&state=041ab8b2-bbaa-4ec4-92b6-9cd5e17f72f4&response_mode=fragment&response_type=code&scope=openid&nonce=75dcea82-ef72-4135-8551-779abd38c881"
+         }, {
+            "date_added": "13298358078368640",
+            "date_last_used": "0",
+            "guid": "5463168c-c3bf-4549-b8a8-7d32d620b0e6",
+            "id": "34",
+            "name": "A Simple Way to Deal with Emotional Stress | Psychology Today",
+            "type": "url",
+            "url": "https://www.psychologytoday.com/us/blog/emotional-fitness/202205/simple-way-deal-emotional-stress"
+         }, {
+            "date_added": "13298492367541418",
+            "date_last_used": "0",
+            "guid": "dd24eed9-c4ad-4776-a51d-03c5553134a3",
+            "id": "35",
+            "name": "Communication & Soft Skills",
+            "type": "url",
+            "url": "https://digiskills.pk/CourseDetails.aspx?Id=COM101"
+         }, {
+            "date_added": "13299347830462534",
+            "date_last_used": "0",
+            "guid": "1e4b2c2f-5081-4748-a860-a238e9efa042",
+            "id": "36",
+            "name": "Three Ways to Cultivate Serendipity | Psychology Today",
+            "type": "url",
+            "url": "https://www.psychologytoday.com/us/blog/connect-the-dots/202206/three-ways-cultivate-serendipity"
+         }, {
+            "date_added": "13300788422700301",
+            "date_last_used": "0",
+            "guid": "16ffade6-4726-4834-b3da-997271e2201c",
+            "id": "37",
+            "name": "How Emotionally Intelligent People Use the 'Warren Buffett Rule' to Become Exceptionally Persuasive | Inc.com",
+            "type": "url",
+            "url": "https://www.inc.com/bill-murphy-jr/how-emotionally-intelligent-people-use-warren-buffett-rule-to-become-exceptionally-persuasive.html"
+         }, {
+            "date_added": "13301217825853929",
+            "date_last_used": "0",
+            "guid": "bfb500d6-12a8-492f-81e5-058b12f8de9a",
+            "id": "38",
+            "name": "How Emotionally Intelligent People Use the Rule of Rewiring to Hack Their Brains and Change Their Habits | Inc.com",
+            "type": "url",
+            "url": "https://www.inc.com/justin-bariso/emotional-intelligence-neuroscience-brain-hack-how-to-change-habits.html"
+         }, {
+            "date_added": "13303403059016717",
+            "date_last_used": "0",
+            "guid": "e0251dfc-1900-4410-a7a7-0293dcb6c2e1",
+            "id": "39",
+            "name": "Best Self-Improvement Infographics - Infogrades",
+            "type": "url",
+            "url": "https://www.infogrades.com/society-infographics/self-improvement/"
+         }, {
+            "date_added": "13306200669893146",
+            "date_last_used": "0",
+            "guid": "505595ad-a9f4-49d3-954d-ad71d071a019",
+            "id": "40",
+            "name": "4 Ways to See the Silver Lining in Anything | Psychology Today Singapore",
+            "type": "url",
+            "url": "https://www.psychologytoday.com/sg/blog/the-path-passionate-happiness/202208/4-ways-see-the-silver-lining-in-anything"
+         }, {
+            "date_added": "13307601775425610",
+            "date_last_used": "0",
+            "guid": "51e98a97-4b00-40b9-9c90-5667d987c19b",
+            "id": "41",
+            "name": "Do It for Your Brain: 3 Habits That Improve Learning | Psychology Today",
+            "type": "url",
+            "url": "https://www.psychologytoday.com/us/blog/the-psychological-pundit/202209/do-it-your-brain-3-habits-improve-learning"
+         }, {
+            "date_added": "13309535721364297",
+            "date_last_used": "0",
+            "guid": "375aeb5c-7d4e-416c-a5f2-029c15b3a485",
+            "id": "42",
+            "name": "How to Train Your Brain and Reach the Highest Levels of Success",
+            "type": "url",
+            "url": "https://www.entrepreneur.com/leadership/how-to-train-your-brain-and-reach-the-highest-levels-of/435561"
+         }, {
+            "date_added": "13309894878282227",
+            "date_last_used": "0",
+            "guid": "279580a3-62b5-4847-9e23-16c7faa3650d",
+            "id": "43",
+            "name": "Watch See - Season 3 Episode 7 - Watch Series",
+            "type": "url",
+            "url": "https://watchseries.run/series/see-season-3-episode-7/"
+         }, {
+            "date_added": "13318691695606054",
+            "date_last_used": "0",
+            "guid": "96d0300f-8f66-4999-92d2-296baa73e4a4",
+            "id": "44",
+            "name": "How Emotionally Intelligent Leaders Embrace the 10-Second Rule to Handle Difficult Conversations | Inc.com",
+            "type": "url",
+            "url": "https://www.inc.com/jason-aten/how-emotionally-intelligent-leaders-embrace-10-second-rule-to-handle-difficult-conversations.html"
+         }, {
+            "date_added": "13319543609498129",
+            "date_last_used": "0",
+            "guid": "c49f9f6c-06b2-41ff-99d5-f1776093c5b0",
+            "id": "45",
+            "name": "How to Conduct a Self-Audit | Psychology Today",
+            "type": "url",
+            "url": "https://www.psychologytoday.com/us/blog/automatic-you/202301/how-to-conduct-a-self-audit"
+         }, {
+            "date_added": "13319666831488495",
+            "date_last_used": "0",
+            "guid": "ca432caf-c204-4dd7-8d82-b787a5b3167e",
+            "id": "46",
+            "name": "‘Don’t take it personally’: three common workplace clashes – and how to deal with them | Australian lifestyle | The Guardian",
+            "type": "url",
+            "url": "https://www.theguardian.com/lifeandstyle/2023/jan/31/dont-take-it-personally-three-common-workplace-clashes-and-how-to-deal-with-them"
+         }, {
+            "date_added": "13321630253939673",
+            "date_last_used": "0",
+            "guid": "9b7fba17-2033-4ee2-a7ea-a4c0b8eafdf5",
+            "id": "47",
+            "name": "How to Stop Self-Sabotaging Habits That Are Costing You Time, Money and Happiness | Entrepreneur",
+            "type": "url",
+            "url": "https://www.entrepreneur.com/business-news/how-to-stop-self-sabotaging-habits-that-are-costing-you/444733"
+         }, {
+            "date_added": "13325453401916573",
+            "date_last_used": "0",
+            "guid": "1ca05173-a02c-4050-bd62-c1fde97dc300",
+            "id": "48",
+            "name": "7 Trust-Building Tips for Leaders and Teams - ReadWrite",
+            "type": "url",
+            "url": "https://readwrite.com/trust-building-tips-for-leaders-and-teams/"
+         }, {
+            "date_added": "13328888332500706",
+            "date_last_used": "0",
+            "guid": "069c6710-de1f-406e-8341-f37686e71aee",
+            "id": "49",
+            "name": "The Habits That Are Blocking Ideas, Dreams and Success | Entrepreneur",
+            "type": "url",
+            "url": "https://www.entrepreneur.com/leadership/the-habits-that-are-blocking-ideas-dreams-and-success/449215"
+         }, {
+            "date_added": "13329896384554183",
+            "date_last_used": "0",
+            "guid": "03cfc635-bfbf-4789-ac8d-d04b660fd5f1",
+            "id": "50",
+            "name": "10 Common Reasons for Failing to Finish What You Started at Work | Inc.com",
+            "type": "url",
+            "url": "https://www.inc.com/martin-zwilling/10-common-reasons-for-failing-to-finish-what-you-started-at-work.html"
+         }, {
+            "date_added": "13330986968841298",
+            "date_last_used": "0",
+            "guid": "dffae583-6ce9-4ad1-9ac4-5c36dee29a09",
+            "id": "51",
+            "name": "The Mind's Tapestry: Weaving the Neurological Threads of Imagination - Neuroscience News",
+            "type": "url",
+            "url": "https://neurosciencenews.com/imagination-neuroscience-23435/"
+         }, {
+            "date_added": "13331291398825202",
+            "date_last_used": "0",
+            "guid": "fc075e0d-4e6b-4d9a-bc2b-97aa76c8ce96",
+            "id": "52",
+            "name": "Pinterest Public Speakin",
+            "type": "url",
+            "url": "https://www.pinterest.com/pin/30891947426421428/"
+         }, {
+            "date_added": "13331662706115466",
+            "date_last_used": "0",
+            "guid": "cdd6400f-ddf4-4855-a922-39e1658c8c6c",
+            "id": "53",
+            "name": "Growth mind-set: Why friends, family, work make a difference - The Washington Post",
+            "type": "url",
+            "url": "https://www.washingtonpost.com/wellness/2023/06/19/growth-mindset/"
+         }, {
+            "date_added": "13337071999530616",
+            "date_last_used": "0",
+            "guid": "cf0ce1a9-37ed-4c4e-801c-fc92f2611ef0",
+            "id": "54",
+            "name": "Master Chatgpt Transform Your Life With Ai Chatbots By Dhruv Rathee - OneDrive",
+            "type": "url",
+            "url": "https://vbvww-my.sharepoint.com/personal/faizan_vbvww_onmicrosoft_com/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Ffaizan%5Fvbvww%5Fonmicrosoft%5Fcom%2FDocuments%2FMaster%20Chatgpt%20Transform%20Your%20Life%20With%20Ai%20Chatbots%20By%20Dhruv%20Rathee"
+         }, {
+            "date_added": "13337205577751110",
+            "date_last_used": "0",
+            "guid": "4dd78289-a794-4707-b76b-b26eaa760845",
+            "id": "55",
+            "name": "4 Ways to Develop Emotional Self-Management at Work | Psychology Today",
+            "type": "url",
+            "url": "https://www.psychologytoday.com/intl/blog/mindful-professional-development/202308/4-ways-to-develop-emotional-self-management-at-work"
+         }, {
+            "date_added": "13337346344943812",
+            "date_last_used": "0",
+            "guid": "f0319deb-e989-4543-9e5c-9f23677deffa",
+            "id": "56",
+            "name": "Adobe Premiere Pro CC Complete Course - Beginner to Advanced - Google Drive",
+            "type": "url",
+            "url": "https://drive.google.com/drive/folders/1Xwuzy_L18mqAYEZC6BGS0poAwXyyAk0D"
+         }, {
+            "date_added": "13338811312484799",
+            "date_last_used": "0",
+            "guid": "7c04c1b8-b64e-4d93-afda-258d9cd4bcb6",
+            "id": "57",
+            "name": "How to import Excel data from screenshots | PCWorld",
+            "type": "url",
+            "url": "https://www.pcworld.com/article/2059081/to-import-excel-tables-from-screenshots.html"
+         }, {
+            "date_added": "13339064566883358",
+            "date_last_used": "0",
+            "guid": "8b270bad-816e-4a7f-82b6-9f1070c1d1db",
+            "id": "58",
+            "name": "8 confidence-boosting tricks that actually work, according to science - Hack Spirit",
+            "type": "url",
+            "url": "https://hackspirit.com/confidence-boosting-tricks-that-actually-work/"
+         }, {
+            "date_added": "13339064653771096",
+            "date_last_used": "0",
+            "guid": "97e5ac6c-6708-4ca3-bc8f-d2bdddb9309c",
+            "id": "59",
+            "name": "13 red flags that you're stuck in a negative mindset - Hack Spirit",
+            "type": "url",
+            "url": "https://hackspirit.com/red-flags-that-youre-stuck-in-a-negative-mindset/"
+         } ],
+         "date_added": "13370035705730848",
+         "date_last_used": "0",
+         "date_modified": "13366967508537259",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

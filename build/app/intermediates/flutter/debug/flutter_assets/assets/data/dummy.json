@@ -1,0 +1,109 @@
+[
+	{
+		"itemName": "Formal Suit",
+		"quantity": 0,
+        "price": 45000,
+        "category": "Formal",
+        "featured": "Yes",
+        "size": "Multiple",
+        "imagePath": "https://m.media-amazon.com/images/I/61Gns1-2XBL._AC_UF894,1000_QL80_.jpg",
+        "description": "A modern and stylish two-piece suit, expertly crafted with precision and attention to detail, making it a versatile addition to any wardrobe.",
+        "color": "Multiple"
+    },
+
+    {
+		"itemName": "Formal Coat",
+		"quantity": 3,
+        "price": 30000,
+        "category": "Formal",
+        "featured": "Yes",
+        "size": "Multiple",
+        "imagePath": "https://i.ebayimg.com/images/g/0w8AAOSwwbdWHrDp/s-l1200.jpg",
+        "description": "A modern and stylish coat, expertly crafted with precision and attention to detail. This coat combines timeless elegance with contemporary style, making it a versatile addition to any wardrobe.",
+        "color": "Multiple"
+    },
+
+    {
+		"itemName": "Formal Trouser",
+		"quantity": 3,
+        "price": 10000,
+        "category": "Formal",
+        "featured": "Yes",
+        "size": "Multiple",
+        "imagePath": "https://litb-cgis.rightinthebox.com/desc_image/202210/bps/desc/inc/hvccxm1666074833918.jpg",
+        "description": "A modern and stylish trouser, expertly crafted with precision and attention to detail. This trouser combines timeless elegance with contemporary style, making it a versatile addition to any wardrobe.",
+        "color": "Multiple"
+    },
+
+    {
+		"itemName": "Formal Shoes",
+		"quantity": 3,
+        "price": 25000,
+        "category": "Shoes",
+        "featured": "Yes",
+        "size": "Multiple",
+        "imagePath": "https://ebhfashion.com/wp-content/uploads/0259-1-G1307.jpg",
+        "description": "A pair of formal shoes designed with elegance and craftsmanship in mind. Made from premium leather, these shoes feature a smooth, polished finish that enhances their sophisticated look.",
+        "color": "Multiple"
+    },
+
+    {
+		"itemName": "Casual Shoes",
+		"quantity": 3,
+        "price": 45000,
+        "category": "Shoes",
+        "featured": "Yes",
+        "size": "Multiple",
+        "imagePath": "https://fhsofficial.com/cdn/shop/files/403-04_21_400x400.jpg",
+        "description": "A casual coat that combines comfort with a contemporary edge, perfect for layering in cooler weather. ",
+        "color": "Multiple"
+    },
+
+    {
+		"itemName": "Casual Coat",
+		"quantity": 3,
+        "price": 30000,
+        "category": "Casual",
+        "featured": "Yes",
+        "size": "Multiple",
+        "imagePath": "https://images-na.ssl-images-amazon.com/images/I/31PAkUVPc0L._SL500_._AC_SL500_.jpg",
+        "description": "A casual coat that combines comfort with a contemporary edge, perfect for layering in cooler weather. ",
+        "color": "Multiple"
+    },
+
+    {
+		"itemName": "Casual Trouser",
+		"quantity": 3,
+        "price": 15000,
+        "category": "Casual",
+        "featured": "Yes",
+        "size": "Multiple",
+        "imagePath": "https://ng.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/12/6737372/1.jpg",
+        "description": "A pair of casual trousers designed for both style and comfort, perfect for versatile, everyday wear.",
+        "color": "Multiple"
+    },
+
+    {
+		"itemName": "Leather Belt",
+		"quantity": 3,
+        "price": 5000,
+        "category": "Accessories",
+        "featured": "No",
+        "size": "Multiple",
+        "imagePath": "https://cdn2.frau.it.filoblu.com/rx/500x,ofmt_webp/media/catalog/product/C/6/C651_NEbr-01.jpg",
+        "description": "A sleek and versatile belt, expertly crafted from premium leather for both durability and style. ",
+        "color": "Multiple"
+    },
+
+    {
+		"itemName": "Formal Tie",
+		"quantity": 3,
+        "price": 1000,
+        "category": "Accessories",
+        "featured": "No",
+        "size": "Multiple",
+        "imagePath": "https://media.gq.com/photos/6151f7f1181a410604dd42db/master/pass/TIES-2.jpg",
+        "description": "A selection of ties showcasing a variety of colors, patterns, and fabrics to suit every style and occasion.",
+        "color": "Multiple"
+    }
+]
